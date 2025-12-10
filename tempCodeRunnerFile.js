@@ -1,0 +1,1 @@
+personalInfo["Sent Mail"].call(user)
